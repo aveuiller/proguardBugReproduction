@@ -1,4 +1,4 @@
--keep public class io.apisense.sdk.core.script.engine.CheckedExecutor {
+-keep public class a.b.c.D {
     public protected *;
 }
 

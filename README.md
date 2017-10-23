@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/aveuiller/proguardBugReproduction)](https://travis-ci.org/aveuiller/proguardBugReproduction)
+[![Travis](https://img.shields.io/travis/aveuiller/proguardBugReproduction.svg)](https://travis-ci.org/aveuiller/proguardBugReproduction)
 
 # proguardBugReproduction
 
